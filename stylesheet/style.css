@@ -126,6 +126,7 @@ body {
 
 .logo {
     position: absolute;
+    top: 2%;
     left: 3%;
     font-family: cursive;
     font-weight: 100;
